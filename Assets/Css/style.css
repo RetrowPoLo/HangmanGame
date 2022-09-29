@@ -1,0 +1,16 @@
+body {
+    background-color: #8d99ae;
+    color: #2b2d42;
+}
+
+#hangman {
+    margin-top: 75px;
+}
+
+#win {
+    color: greenyellow;
+}
+
+#loose {
+    color: red;
+}
